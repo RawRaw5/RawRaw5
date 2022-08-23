@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+    <img alt="rawmvmnt.com" src="./assets/oh hi there.png" width="300"/>
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Robert White</h1>
 
@@ -7,7 +7,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **WordPress Developer** at [HCL ProStyle Devs](https://prostyledev.com/)
+- 🏢 I am currently working as a **WordPress Developer** at [ProStyle Devs](https://prostyledev.com/)
 - 🏢 Founder **Yoga Instrctor** at [Raw Movement](https://rawmvmnt.com/)
 - 🎓 Studies for Software Developemnt Bootcamp (Full-Stack Development) at [San Diego State University](https://digitalskills.sdsu.edu/lp/software-development-bootcamp/?sp=google&utm_source=google&utm_medium=cpc&utm_campaign=SDSU_SD_srch_Brand&utm_adset=comptia-academy&utm_term=sdsu%20software%20development&adpos=&device=c&creative551955473460&placement=&cid=13958331284&asid=130847403280&kmt=e&net=g&device_model=&target=kwd-1523130262237&cq_src=google_ads&cq_cmp=13958331284&cq_term=sdsu%20software%20development&cq_plac=&cq_net=g&cq_plt=gp&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMuVuCnxpuR7ICczd1NFYyNsoaqWblTo8HDQxf8hBYdM8S-q6vq7HZcaAv4uEALw_wcB)
 - 🏡'Lives in **San Diego, California**
